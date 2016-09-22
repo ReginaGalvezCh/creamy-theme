@@ -1,0 +1,73 @@
+@font-face{
+	font-family:Merriweather;
+	font-family: Open+Sans;
+	src:url(https://fonts.googleapis.com/css?family=Open+Sans);
+	src:url(https://fonts.googleapis.com/css?family=Merriweather);
+}
+
+.header-rojo{
+	background-color: #CE152B;
+	
+}
+.navbar-default .navbar-brand{
+	color: #E1DEA1;
+	font-family: Merriweather;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #E1DEA1;
+	font-family: Open+Sans;
+}
+/*.negro{
+
+	background-color: black;
+	opacity: 1.5;
+	
+}*/
+.bg-home{
+	background-image:url(../img/creamy.jpg);
+	background-position: center ;
+	opacity: 1.5;
+	padding: 15%;
+}
+.creamy{
+	color: #E1DEA1;
+	font-family: Merriweather;
+}
+.the-best{
+	color: #E1DEA1;
+	font-family: Open+Sans;
+}
+.bg-color{
+	background-color: #E1DEA1;
+}
+.rojo{
+	font-family: Merriweather;
+	color: #CE152B;
+}
+.rojo-2{
+	font-family: Open+Sans;
+	color: #CE152B;
+	padding: 10%;
+}
+.ice{
+	width: 100%;
+	padding: 10%;
+}
+.bg-rojo{
+	background-color: #CE152B;
+	padding: 5%;
+}
+.fa{
+	color: #CE152B;
+	padding: 5%;
+}
+.bg-rojoo{
+	background-color: #CE152B;
+}
+.the-best-2
+{   
+	display: inline-block;
+	color: #E1DEA1;
+	font-family: Open+Sans;
+	padding: 0.5%;
+}
